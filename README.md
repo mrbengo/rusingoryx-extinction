@@ -1,0 +1,2 @@
+# rusingoryx-extinction
+Vensim Model
